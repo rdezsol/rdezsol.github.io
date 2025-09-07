@@ -8,7 +8,7 @@ skills:
   - Datasheet Analysis 
   - SMD/THT Soldering
 
-main-image: /project2.jpg
+main-image: /HUB_RevA_Front.png
 ---
 
 ---
