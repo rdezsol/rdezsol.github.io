@@ -5,6 +5,7 @@ description:  The "HUB" PCB was designed under SJSU Robotics for the University 
 skills: 
   - PCB Design 
   - Schematic Capture
+  - Hardware Debugging
   - Datasheet Analysis 
   - SMD/THT Soldering
 
@@ -12,13 +13,7 @@ main-image: /HUB_RevA_Front.png
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
-
+# Design
 
 ## Embedding images 
 ### External images
